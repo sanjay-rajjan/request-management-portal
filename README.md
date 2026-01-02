@@ -1,3 +1,3 @@
 # Request Management Portal
 
-Full stack request management portal 
+Full stack web application for managing internal requests.
